@@ -1,0 +1,9 @@
+﻿venv/
+*.zip
+*.dll
+*.exe
+__pycache__/
+*.pkl
+*.log
+*.tmp
+.env
